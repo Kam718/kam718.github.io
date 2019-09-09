@@ -6,15 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-remote_theme: "mmistakes/minimal-mistakes"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name"
+title                    : "1 Year Out"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "Data Science Portfolio"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Kam Learns AI"
+description              : "Cyber Security and AI Portfolio"
+url                      : # the base hostname & protocol for your site e.g. "https://kam718.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -85,10 +84,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Kam Learns AI"
   avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
-  location         : "Your Location"
+  bio              : "Cyber Security and AI Portfolio"
+  location         : "Arizona"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -98,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Your Github"
+  github           : "Kam718"
   gitlab           :
   google_plus      :
   keybase          :
@@ -114,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : # "https://www.youtube.com/channel/UCt3p6GmiGI_LeFM2j23zGpw"
 
 
 # Reading Files
