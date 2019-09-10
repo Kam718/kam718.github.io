@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "1 Year Outer"
+title                    : "1 Year Out"
 title_separator          : "-"
 name                     : "Kam Learns AI"
 description              : "Cyber Security and AI Portfolio"
@@ -103,7 +103,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "ricmun"
+  linkedin         : #"ricmun"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
