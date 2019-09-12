@@ -14,7 +14,6 @@ Artificial Intelligence (AI) - This is my personal opinion. AI should be used as
 
 Hopefully, I can have some impact to help my beliefs come true... Let's find out if I'm right.
 
-Etc, etc, etc
 
 
 
