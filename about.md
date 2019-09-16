@@ -16,4 +16,8 @@ Hopefully, I can have some impact to help my beliefs come true... Let's find out
 
 
 
-
+Conferences Attended:
+Phoenix Cyber Security Conference
+Phoenix SAC (Security Audit Conference)
+Security Titans
+CactusCon
